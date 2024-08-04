@@ -1,11 +1,18 @@
 import Button from "./Button";
+import Footer from "./Footer";
 
 const Intro = () => {
   return (
-    <div className="getStartedContainer">
-      <img src="../../images/illustration-intro.png" alt="Illustration" />
-      <h1>All your files in one secure location, accessible anywhere.</h1>
-      <p>
+    <div className="container">
+      <img
+        src="../../images/illustration-intro.png"
+        alt="Illustration"
+        className="firstIntroIllustration"
+      />
+      <h1 className="firstHeader">
+        All your files in one secure location, accessible anywhere.
+      </h1>
+      <p className="firstHeaderSubText">
         Fylo stores all your most important files in one secure location. Access
         them wherever you need, share and collaborate with friends family, and
         co-workers.
@@ -53,6 +60,7 @@ const Intro = () => {
           </p>
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
