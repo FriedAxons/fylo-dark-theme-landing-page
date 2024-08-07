@@ -19,7 +19,12 @@ const Intro = () => {
       </p>
       <Button text="Get Started" />
 
-      <div className="icons-section">
+      <div className="icons-and-testimonials-section">
+        <img
+          src="../../images/bg-curvy-desktop.svg"
+          alt="Curvy background image"
+          className="background-image"
+        />
         <div className="icon-box">
           <img
             src="../../images/icon-access-anywhere.svg"
@@ -39,7 +44,7 @@ const Intro = () => {
             couple of the security features we allow to help secure your files.
           </p>
         </div>
-        <div className="icon-box">
+        <div className="icon-box icon-box-3">
           <img
             src="../../images/icon-collaboration.svg"
             alt="Collaboration icon"
@@ -50,7 +55,7 @@ const Intro = () => {
             for live collaboration. No email attachments required.
           </p>
         </div>
-        <div className="icon-box">
+        <div className="icon-box icon-box-4">
           <img src="../../images/icon-any-file.svg" alt="Any file icon" />
           <h2>Store any type of file</h2>
           <p>
