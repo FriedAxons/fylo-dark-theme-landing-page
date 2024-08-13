@@ -19,12 +19,12 @@ const Intro = () => {
       </p>
       <Button text="Get Started" />
 
+      <img
+        src="../../images/bg-curvy-desktop.svg"
+        alt="Curvy background image"
+        className="background-image"
+      />
       <div className="icons-and-testimonials-section">
-        <img
-          src="../../images/bg-curvy-desktop.svg"
-          alt="Curvy background image"
-          className="background-image"
-        />
         <div className="icon-box">
           <img
             src="../../images/icon-access-anywhere.svg"
@@ -62,6 +62,31 @@ const Intro = () => {
             Whether you&apos;re sharing holidays photos or work documents, Fylo
             has you covered allowing for all file types to be securely stored
             and shared.
+          </p>
+        </div>
+      </div>
+      <div className="productive-section">
+        <img
+          src="../../images/illustration-stay-productive.png"
+          alt="Stay productive image"
+        />
+        <div className="productive-section-text">
+          <h1 className="productive-section-header">
+            Stay productive, wherever you are
+          </h1>
+          <p className="productive-section-paragraph">
+            Never let location be an issue when accessing your files. Fylo has
+            you covered for all of your file storage needs. <br />
+            <br /> Securely share files and folders with friends, family and
+            colleagues for live collaboration. No email attachments required.{" "}
+            <br />
+            <br />
+            <span className="productive-link-text">
+              See how Fylo works
+              <span>
+                <img src="../../images/icon-arrow.svg" alt="Arrow icon" />
+              </span>
+            </span>
           </p>
         </div>
       </div>
