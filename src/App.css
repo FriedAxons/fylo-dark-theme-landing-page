@@ -118,12 +118,24 @@ p {
   justify-content: center;
   align-items: center;
   background-color: hsl(218, 28%, 13%);
-  padding: 0 150px 200px 150px; 
+  padding: 0 200px 200px 150px;
 }
 
 .productive-section-text {
-  max-width: 50%;
+  max-width: 36%;
   margin-left: 60px;
+  text-align: left;
+}
+
+.productive-section-header {
+  width: 60%;
+}
+
+.productive-link-text {
+  color: hsl(176, 68%, 64%);
+  padding-bottom: 4px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
 }
 
 footer {

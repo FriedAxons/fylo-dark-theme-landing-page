@@ -83,7 +83,7 @@ const Intro = () => {
             <br />
             <span className="productive-link-text">
               See how Fylo works
-              <span>
+              <span className="productive-link-text-icon">
                 <img src="../../images/icon-arrow.svg" alt="Arrow icon" />
               </span>
             </span>
