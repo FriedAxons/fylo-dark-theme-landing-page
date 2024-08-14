@@ -138,6 +138,11 @@ p {
   border-bottom-width: 1px;
 }
 
+.productive-link-text-icon {
+  vertical-align: middle;
+  margin-left: 8px;
+}
+
 footer {
   height: 100%;
   background-color: hsl(216, 53%, 9%);
