@@ -73,7 +73,7 @@ p {
   z-index: -1;
 }
 
-.icons-and-testimonials-section {
+.icons-section {
   position: relative;
   display: grid;
   grid-template-columns: repeat(2, minmax(auto, 500px));
@@ -141,6 +141,15 @@ p {
 .productive-link-text-icon {
   vertical-align: middle;
   margin-left: 8px;
+}
+
+.testimonials-section {
+  display: flex;
+  background-color:hsl(218, 28%, 13%); 
+}
+
+.profile-section {
+  display: flex;
 }
 
 footer {

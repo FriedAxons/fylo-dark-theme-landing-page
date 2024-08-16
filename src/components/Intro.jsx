@@ -1,5 +1,6 @@
 import Button from "./Button";
 import Footer from "./Footer";
+import Testimonials from "./Testimonials";
 
 const Intro = () => {
   return (
@@ -24,7 +25,7 @@ const Intro = () => {
         alt="Curvy background image"
         className="background-image"
       />
-      <div className="icons-and-testimonials-section">
+      <div className="icons-section">
         <div className="icon-box">
           <img
             src="../../images/icon-access-anywhere.svg"
@@ -94,6 +95,7 @@ const Intro = () => {
           </p>
         </div>
       </div>
+      <Testimonials />
       <Footer />
     </div>
   );
