@@ -143,9 +143,22 @@ p {
 }
 
 .testimonials-section {
+  z-index: 1;
   display: flex;
   justify-content: center;
   background-color: hsl(218, 28%, 13%);
+}
+
+.first-testimonial {
+  position: relative;
+  z-index: 3;
+}
+
+.quotation-icon {
+  position: absolute;
+  top: -38px;
+  left: -10px;
+  z-index: 2;
 }
 
 .testimonial {
@@ -156,11 +169,7 @@ p {
   margin: 0 20px 300px;
   padding: 20px 20px 10px 20px;
   border-radius: 10px;
-  box-shadow: 10px 3px 7px hsla(219, 30%, 18%, .4)
-}
-
-.first-testimonial {
-  margin-left: 100px;
+  box-shadow: 10px 3px 7px hsla(219, 30%, 18%, 0.4);
 }
 
 .testimonial p {
@@ -194,11 +203,11 @@ p {
   font-size: 13px;
   font-weight: 600;
   word-spacing: 1px;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .company-bio {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 300;
 }
 

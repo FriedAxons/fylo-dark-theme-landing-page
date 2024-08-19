@@ -2,6 +2,11 @@ const Testimonials = () => {
   return (
     <div className="testimonials-section">
       <div className="testimonial first-testimonial">
+        <img
+          src="../../images/bg-quotes.png"
+          alt="Quotation icon"
+          className="quotation-icon"
+        />
         <p>
           Fylo has improved our team productivity by an order of magnitude.
           Since making the switch our team has become a well-oiled collaboration
@@ -39,7 +44,7 @@ const Testimonials = () => {
         </div>
       </div>
 
-      <div className="testimonial last-testimonial">
+      <div className="testimonial">
         <p>
           Fylo has improved our team productivity by an order of magnitude.
           Since making the switch our team has become a well-oiled collaboration
