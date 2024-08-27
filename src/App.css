@@ -232,9 +232,19 @@ footer {
 
 .logo-section {
   display: flex;
+  max-width: 32%;
   flex-direction: column;
-  align-items: center;
   align-items: flex-start;
+}
+
+.location-icon {
+  margin: 6px 20px 0 0;
+}
+
+.logo-section-text { 
+  display: flex;
+  text-align: left;
+  margin-top: 40px;
 }
 
 .contact-info-section {

@@ -4,7 +4,13 @@ const Footer = () => {
       <div className="logo-section">
         <img src="../../images/logo.svg" alt="Fylo logo" />
         <p className="logo-section-text">
-          <img src="../../images/icon-location.svg" alt="Location icon" />
+          <div className="icon-container">
+            <img
+              src="../../images/icon-location.svg"
+              alt="Location icon"
+              className="location-icon"
+            />
+          </div>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua
         </p>
