@@ -226,7 +226,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding: 200px 120px 140px;
+  padding: 220px 120px 100px;
   background-color: hsl(216, 53%, 9%);
 }
 
@@ -252,19 +252,27 @@ footer {
 .contact-info-section {
   display: flex;
   flex-direction: column;
-  /* padding-right: 600px; */
 }
 
 .phone-number-container,
 .email-address-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+}
+
+.phone-number-container i,
+.email-address-container i {
+  margin-right: 20px;
+}
+
+/* This although a p tag in the jsx syntax, is converted to an a tag when inspecting the element in the devtools*/
+.email-address-container a {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
 }
 
 .about-and-contact-us-section {
   display: flex;
-  /* padding-right: 500px; */
 }
 
 .about-section {
@@ -274,6 +282,7 @@ footer {
 .social-links-section {
   display: flex;
   gap: 13px;
+  margin-right: 25px;
 }
 
 .social-links-section i {
@@ -284,5 +293,5 @@ footer {
   width: 24px;
   border: 1px solid hsl(0, 0%, 100%);
   border-radius: 50%;
-  margin-bottom: 115px;
+  margin-bottom: 110px;
 }
