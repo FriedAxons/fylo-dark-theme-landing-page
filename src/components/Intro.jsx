@@ -1,6 +1,7 @@
 import Button from "./Button";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
+import EmailSignup from "./EmailSignup";
 
 const Intro = () => {
   return (
@@ -96,6 +97,7 @@ const Intro = () => {
         </div>
       </div>
       <Testimonials />
+      <EmailSignup />
       <Footer />
     </div>
   );

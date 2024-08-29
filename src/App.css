@@ -21,6 +21,7 @@
   background-color: hsl(217, 28%, 15%);
   color: hsl(0, 0%, 100%);
   font-family: "Raleway", sans-serif;
+  font-size: 14px;
 }
 
 .button {
@@ -218,9 +219,17 @@ p {
   font-weight: 300;
 }
 
-/* .email-signup-container {
+.email-signup-container {
   position: absolute;
-} */
+  background-color: hsl(217, 28%, 15%);
+  left: 0; 
+  right: 0;
+  /* bottom: 500px; */
+  margin-right: auto;
+  margin-left: auto;
+  width: 40%;
+  padding: 10px 30px 25px;
+}
 
 footer {
   display: flex;
@@ -262,7 +271,7 @@ footer {
 
 .phone-number-container i,
 .email-address-container i {
-  margin-right: 20px;
+  margin-right: 25px;
 }
 
 /* This although a p tag in the jsx syntax, is converted to an a tag when inspecting the element in the devtools*/
@@ -273,6 +282,7 @@ footer {
 
 .about-and-contact-us-section {
   display: flex;
+  margin-top: 52px;
 }
 
 .about-section {
@@ -293,5 +303,5 @@ footer {
   width: 24px;
   border: 1px solid hsl(0, 0%, 100%);
   border-radius: 50%;
-  margin-bottom: 110px;
+  margin-bottom: 60px;
 }
