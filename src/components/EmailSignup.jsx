@@ -10,8 +10,13 @@ const EmailSignup = () => {
         help you.
       </p>
       <form className="form">
-        <input type="email" id="email" placeholder="email@example.com" />
-        <Button text="Get Started For Free" />
+        <input
+          type="email"
+          id="email"
+          placeholder="email@example.com"
+          className="emailInput"
+        />
+        <Button text="Get Started For Free" size="smallerButton" />
       </form>
     </div>
   );
