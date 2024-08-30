@@ -16,6 +16,7 @@ const EmailSignup = () => {
           placeholder="email@example.com"
           className="emailInput"
         />
+        <p className="error-message">Please enter a valid email address</p>
         <Button text="Get Started For Free" size="smallerButton" />
       </form>
     </div>
