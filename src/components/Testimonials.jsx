@@ -1,12 +1,12 @@
 const Testimonials = () => {
   return (
     <div className="testimonials-section">
+      <img
+        src="../../images/bg-quotes.png"
+        alt="Quotation icon"
+        className="quotation-icon"
+      />
       <div className="testimonial first-testimonial">
-        <img
-          src="../../images/bg-quotes.png"
-          alt="Quotation icon"
-          className="quotation-icon"
-        />
         <p>
           Fylo has improved our team productivity by an order of magnitude.
           Since making the switch our team has become a well-oiled collaboration
