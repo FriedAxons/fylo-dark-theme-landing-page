@@ -14,7 +14,6 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
     - [Built with](#built-with)
   - [Author](#author)
 
-
 ## Overview
 
 Challenge was provided by Frontend Mentor. With the design images and assets, the challenge is to create your own version of the project as close as possible to the images provided in the design folder.
@@ -28,12 +27,20 @@ Users should be able to:
 
 ### Completed Desktop Screenshots
 
-![](./screenshot.jpg)
-
+![Navbar and Illustration](./images/desktop_screenshots/desktop_image_1.png)
+![First Icons and Button](./images/desktop_screenshots/desktop_image_2.png)
+![Last Icons and Productive Section](./images/desktop_screenshots/desktop_image_3.png)
+![Testimonials and Signup Component](./images/desktop_screenshots/desktop_image_4.png)
+![Footer Section](./images/desktop_screenshots/desktop_image_5.png)
 
 ### Completed Mobile Screenshots
 
-![]()
+![Top Area on Mobile Version](./images/mobile_screenshots/mobile_image_1.png)
+![First Icons on Mobile Version](./images/mobile_screenshots/mobile_image_2.png)
+![Last Icon and Productive Section Mobile Version](./images/mobile_screenshots/mobile_image_3.png)
+![Testimonials Section on Mobile Version](./images/mobile_screenshots/mobile_image_4.png)
+![Signup Component on Mobile Version](./images/mobile_screenshots/mobile_image_5.png)
+![Footer Section on Mobile Version](./images/mobile_screenshots/mobile_image_6.png)
 
 ### Links
 
