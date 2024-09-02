@@ -487,7 +487,7 @@ footer {
 
   .productive-section img {
     width: 80%;
-    margin-top: 290px;
+    margin-top: 280px;
   }
 
   .productive-section-text {
@@ -512,18 +512,56 @@ footer {
     margin: 0 0 1.5px 5px;
   }
 
+  .quotation-icon {
+    width: 8%;
+    top: 158px;
+    left: 23px;
+  }
+
   .testimonials-section {
     flex-direction: column;
+    align-items: center;
+  }
+
+  .profile-picture {
+    width: 11%;
+  }
+
+  .profile-name {
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .company-bio {
+    font-size: 0.68em;
   }
 
   .testimonial {
-    margin: 0 20px 200px;
+    width: 77%;
+    margin-bottom: 30px;
+    line-height: 1.6;
+    font-weight: 300;
+    padding: 20px 30px 25px 22px;
+  }
+
+  .testimonial p {
+    font-size: 13.5px;
+    line-height: 1.8;
+  }
+
+  .first-testimonial {
+    margin-top: 180px;
+  }
+
+  .last-testimonial {
+    margin-bottom: 350px;
   }
 
   .email-signup-container {
     width: 69%;
     height: 6%;
-    padding: 5px 35px 40px;
+    padding: 8px 35px 48px;
+    bottom: 1000px;
   }
 
   .email-signup-container h1 {
@@ -533,7 +571,7 @@ footer {
   }
 
   .email-signup-container p {
-    min-width:100%;
+    min-width: 100%;
     margin-top: 10px;
     font-size: 13.5px;
     font-weight: 300;
@@ -547,17 +585,19 @@ footer {
   .emailInput {
     padding: 18px 50px 18px;
     margin-right: 0;
+    border-radius: 30px;
   }
 
   .button.smallerButton {
-    padding: 18px 70px 18px;
+    padding: 18px 69px 18px;
     margin-top: 22px;
     font-weight: 500;
   }
 
   footer {
     flex-direction: column;
-    min-width: 100%;
-    padding: 0;
+  padding: 260px 0 0 35px;
+    align-items: flex-start;
+    /* justify-content: center; */
   }
 }

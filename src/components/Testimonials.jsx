@@ -44,7 +44,7 @@ const Testimonials = () => {
         </div>
       </div>
 
-      <div className="testimonial">
+      <div className="testimonial last-testimonial">
         <p>
           Fylo has improved our team productivity by an order of magnitude.
           Since making the switch our team has become a well-oiled collaboration
