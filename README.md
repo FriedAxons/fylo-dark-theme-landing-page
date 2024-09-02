@@ -8,13 +8,16 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
+    - [Completed Desktop Screenshots](#completed-desktop-screenshots)
+    - [Completed Mobile Screenshots](#completed-mobile-screenshots)
     - [Links](#links)
     - [Built with](#built-with)
   - [Author](#author)
 
 
 ## Overview
+
+Challenge was provided by Frontend Mentor. With the design images and assets, the challenge is to create your own version of the project as close as possible to the images provided in the design folder.
 
 ### The challenge
 
@@ -23,10 +26,14 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
+### Completed Desktop Screenshots
 
 ![](./screenshot.jpg)
 
+
+### Completed Mobile Screenshots
+
+![]()
 
 ### Links
 
@@ -40,5 +47,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [FriedAxons](https://www.github.com/FriedAxons)
+- Frontend Mentor - [@FriedAxons](https://www.frontendmentor.io/profile/FriedAxons)
