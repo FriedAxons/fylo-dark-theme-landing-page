@@ -436,6 +436,9 @@ footer {
 
   .background-image.mobile-only {
     display: block;
+    position: absolute;
+    top: 220px;
+    z-index: -1;
   }
 
   .firstIntroIllustration {
@@ -457,6 +460,16 @@ footer {
 
   .button {
     padding: 16px 85px;
+  }
+
+  .icons-section::before {
+    background-color: hsl(218, 28%, 13%);
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -531px;;
+    z-index: -1;
   }
 
   .icons-section {
@@ -571,7 +584,8 @@ footer {
     width: 69%;
     height: 6%;
     padding: 8px 35px 48px;
-    bottom: 1000px;
+    bottom: 880px;
+    z-index: 3;
   }
 
   .email-signup-container h1 {
@@ -606,8 +620,41 @@ footer {
 
   footer {
     flex-direction: column;
-  padding: 260px 0 0 35px;
+    padding: 260px 0 0 35px;
     align-items: flex-start;
-    /* justify-content: center; */
+    position: relative;
+  }
+
+  .logo-section {
+    font-weight: 300;
+    max-width: 90%;
+    line-height: 1.4;
+  }
+
+  .location-icon {
+    margin: 6px 27px 0 0;
+  }
+
+  .contact-info-section { 
+    position: absolute; 
+    bottom: 510px;
+  }
+
+  .contact-info-section p {
+    font-size: 15px;
+    font-weight: 300;
+  }
+
+  .about-and-contact-us-section {
+    flex-direction: column;
+    font-weight: 300;
+  }
+
+  .about-and-contact-us-section .contact-section {
+    margin-top: 20px;
+  }
+
+  .social-links-section { 
+    margin: 60px auto 0;
   }
 }
