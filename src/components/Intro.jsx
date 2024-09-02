@@ -27,7 +27,7 @@ const Intro = () => {
         className="background-image"
       />
       <div className="icons-section">
-        <div className="icon-box">
+        <div className="icon-box icon-box-1">
           <img
             src="../../images/icon-access-anywhere.svg"
             alt="Access anywhere icon"
@@ -38,7 +38,7 @@ const Intro = () => {
             account means your files follow you everywhere.
           </p>
         </div>
-        <div className="icon-box">
+        <div className="icon-box icon-box-2">
           <img src="../../images/icon-security.svg" alt="Security icon" />
           <h2>Security you can trust</h2>
           <p>

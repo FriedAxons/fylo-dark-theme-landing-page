@@ -404,3 +404,160 @@ footer {
   border: 1px solid hsl(176, 68%, 64%);
   color: hsl(176, 68%, 64%);
 }
+
+@media (max-width: 375px) {
+  .navbar img {
+    width: auto;
+    height: 24px;
+    vertical-align: middle;
+  }
+
+  .navbar {
+    margin-top: 25px;
+    padding: 0 22px;
+  }
+
+  .navButtons {
+    gap: 15px;
+  }
+
+  .navButton {
+    font-size: 12px;
+    font-weight: 300;
+  }
+
+  .firstIntroIllustration {
+    width: auto;
+    height: 223px;
+    margin-top: 35px;
+  }
+
+  .firstHeader {
+    width: 90%;
+    font-size: 24px;
+  }
+
+  .firstHeaderSubText {
+    width: 75%;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+
+  .button {
+    padding: 16px 85px;
+  }
+
+  .icons-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 320px;
+    min-height: 100vh;
+  }
+
+  .icon-box h2 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .icon-box p {
+    width: 80%;
+    font-size: 13.5px;
+    font-weight: 300;
+  }
+
+  /* .icon-box-1, .icon-box-2, .icon-box-3 {
+    margin-bottom: 15px;
+  } */
+
+  .icon-box img {
+    width: 16%;
+    margin-bottom: 15px;
+  }
+
+  .icon-box-2,
+  .icon-box-3,
+  .icon-box-4 {
+    margin-top: 130px;
+  }
+
+  .productive-section {
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .productive-section img {
+    width: 80%;
+    margin-top: 290px;
+  }
+
+  .productive-section-text {
+    margin: 40px 0 0;
+    min-width: 84%;
+  }
+
+  .productive-section-header {
+    width: 100%;
+    font-size: 18px;
+    margin-bottom: 18px;
+  }
+
+  .productive-section-paragraph {
+    font-size: 14.5px;
+    font-weight: 300;
+  }
+
+  .productive-link-text .productive-link-text-icon {
+    height: auto;
+    width: 5.5%;
+    margin: 0 0 1.5px 5px;
+  }
+
+  .testimonials-section {
+    flex-direction: column;
+  }
+
+  .testimonial {
+    margin: 0 20px 200px;
+  }
+
+  .email-signup-container {
+    width: 69%;
+    height: 6%;
+    padding: 5px 35px 40px;
+  }
+
+  .email-signup-container h1 {
+    font-size: 17.5px;
+    font-weight: 600;
+    margin-top: 40px;
+  }
+
+  .email-signup-container p {
+    min-width:100%;
+    margin-top: 10px;
+    font-size: 13.5px;
+    font-weight: 300;
+  }
+
+  .form {
+    flex-direction: column;
+    margin-top: 30px;
+  }
+
+  .emailInput {
+    padding: 18px 50px 18px;
+    margin-right: 0;
+  }
+
+  .button.smallerButton {
+    padding: 18px 70px 18px;
+    margin-top: 22px;
+    font-weight: 500;
+  }
+
+  footer {
+    flex-direction: column;
+    min-width: 100%;
+    padding: 0;
+  }
+}
