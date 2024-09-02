@@ -24,8 +24,14 @@ const Intro = () => {
       <img
         src="../../images/bg-curvy-desktop.svg"
         alt="Curvy background image"
-        className="background-image"
+        className="background-image desktop-only"
       />
+      <img
+        src="../../images/bg-curvy-mobile.svg"
+        alt="Curvy background image"
+        className="background-image mobile-only"
+      />
+
       <div className="icons-section">
         <div className="icon-box icon-box-1">
           <img
