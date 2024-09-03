@@ -467,7 +467,7 @@ footer {
   .productive-section,
   .testimonials-section,
   footer {
-    width: 100%;
+    min-width: 100vw;
   }
 
   .icons-section::before {
