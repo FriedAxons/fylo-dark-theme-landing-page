@@ -410,10 +410,6 @@ footer {
 }
 
 @media (max-width: 375px) {
-  .container {
-    width: 375px;
-    margin: 0 auto;
-  }
 
   .navbar img {
     width: auto;
@@ -472,7 +468,7 @@ footer {
   .productive-section,
   .testimonials-section,
   footer {
-    width: 100%;
+    max-width: 375px;
   }
 
   .icons-section::before {
