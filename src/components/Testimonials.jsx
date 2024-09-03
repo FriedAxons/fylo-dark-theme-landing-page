@@ -2,7 +2,7 @@ const Testimonials = () => {
   return (
     <div className="testimonials-section">
       <img
-        src="../../public/images/bg-quotes.png"
+        src="/public/images/bg-quotes.png"
         alt="Quotation icon"
         className="quotation-icon"
       />
@@ -14,7 +14,7 @@ const Testimonials = () => {
         </p>
         <div className="profile-section">
           <img
-            src="../../public/images/profile-1.jpg"
+            src="/public/images/profile-1.jpg"
             alt="Profile picture"
             className="profile-picture"
           />
@@ -33,7 +33,7 @@ const Testimonials = () => {
         </p>
         <div className="profile-section">
           <img
-            src="../../public/images/profile-2.jpg"
+            src="/public/images/profile-2.jpg"
             alt="Profile picture"
             className="profile-picture"
           />
@@ -52,7 +52,7 @@ const Testimonials = () => {
         </p>
         <div className="profile-section">
           <img
-            src="../../public/images/profile-3.jpg"
+            src="/public/images/profile-3.jpg"
             alt="Profile picture"
             className="profile-picture"
           />
