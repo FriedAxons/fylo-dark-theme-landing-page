@@ -612,6 +612,12 @@ footer {
     border-radius: 30px;
   }
 
+  .error-message.visible {
+    top: 50px;
+    left: 0;
+    margin: 5px 0 0;
+  }
+
   .button.smallerButton {
     padding: 18px 69px 18px;
     margin-top: 22px;
