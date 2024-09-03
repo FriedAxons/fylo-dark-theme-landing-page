@@ -410,6 +410,11 @@ footer {
 }
 
 @media (max-width: 375px) {
+  .container {
+    width: 375px;
+    margin: 0 auto;
+  }
+
   .navbar img {
     width: auto;
     height: 24px;
@@ -467,7 +472,7 @@ footer {
   .productive-section,
   .testimonials-section,
   footer {
-    min-width: 100vw;
+    width: 100%;
   }
 
   .icons-section::before {
@@ -627,7 +632,7 @@ footer {
   }
 
   .button.smallerButton {
-    padding: 18px 69px 18px;
+    padding: 18px 75px 18px;
     margin-top: 22px;
     font-weight: 500;
   }
