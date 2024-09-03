@@ -50,7 +50,7 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- Vite
+- [Vite](https://vitejs.dev/)
 - CSS
 
 ## Author
