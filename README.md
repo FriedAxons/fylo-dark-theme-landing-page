@@ -44,12 +44,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [GitHub live page](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-solution-6wCaisAdNJ)
+- Live Site URL: [GitHub Live Page](https://friedaxons.github.io/fylo-dark-theme-landing-page/)
 
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
+- Vite
 - CSS
 
 ## Author
