@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://friedaxons.github.io/fylo-dark-theme-landing-page",
+  "homepage": "https://friedaxons.github.io/fylo-dark-theme-landing-page/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
