@@ -468,7 +468,7 @@ footer {
   .productive-section,
   .testimonials-section,
   footer {
-    max-width: 375px;
+    max-width: 100vw;
   }
 
   .icons-section::before {
