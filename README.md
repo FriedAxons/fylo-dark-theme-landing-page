@@ -27,20 +27,20 @@ Users should be able to:
 
 ### Completed Desktop Screenshots
 
-![Navbar and Illustration](https://friedaxons.github.io/fylo-dark-theme-landing-page/desktop_screenshots/desktop_screenshots/desktop_image_1.png)
-![First Icons and Button](https://friedaxons.github.io/fylo-dark-theme-landing-page/desktop_screenshots/desktop_screenshots/desktop_image_2.png)
-![Last Icons and Productive Section](https://friedaxons.github.io/fylo-dark-theme-landing-page/desktop_screenshots/desktop_screenshots/desktop_image_3.png)
-![Testimonials and Signup Component](https://friedaxons.github.io/fylo-dark-theme-landing-page/desktop_screenshots/desktop_screenshots/desktop_image_4.png)
-![Footer Section](https://friedaxons.github.io/fylo-dark-theme-landing-page/desktop_screenshots/desktop_image_5.png)
+![Navbar and Illustration](assets/desktop_screenshots/desktop_image_1.png)
+![First Icons and Button](assets/desktop_screenshots/desktop_image_2.png)
+![Last Icons and Productive Section](assets/desktop_screenshots/desktop_image_3.png)
+![Testimonials and Signup Component](assets/desktop_screenshots/desktop_image_4.png)
+![Footer Section](assets/desktop_screenshots/desktop_image_5.png)
 
 ### Completed Mobile Screenshots
 
-![Top Area on Mobile Version](https://friedaxons.github.io/fylo-dark-theme-landing-page/mobile_screenshots/mobile_image_1.png)
-![First Icons on Mobile Version](https://friedaxons.github.io/fylo-dark-theme-landing-page/mobile_screenshots/mobile_image_2.png)
-![Last Icon and Productive Section Mobile Version](https://friedaxons.github.io/fylo-dark-theme-landing-page/mobile_screenshots/mobile_image_3.png)
-![Testimonials Section on Mobile Version](https://friedaxons.github.io/fylo-dark-theme-landing-page/mobile_screenshots/mobile_image_4.png)
-![Signup Component on Mobile Version](https://friedaxons.github.io/fylo-dark-theme-landing-page/mobile_screenshots/mobile_image_5.png)
-![Footer Section on Mobile Version](https://friedaxons.github.io/fylo-dark-theme-landing-page/mobile_screenshots/mobile_image_6.png)
+![Top Area on Mobile Version](assets/mobile_screenshots/mobile_image_1.png)
+![First Icons on Mobile Version](assets/mobile_screenshots/mobile_image_2.png)
+![Last Icon and Productive Section Mobile Version](assets/mobile_screenshots/mobile_image_3.png)
+![Testimonials Section on Mobile Version](assets/mobile_screenshots/mobile_image_4.png)
+![Signup Component on Mobile Version](assets/mobile_screenshots/mobile_image_5.png)
+![Footer Section on Mobile Version](assets/mobile_screenshots/mobile_image_6.png)
 
 ### Links
 
