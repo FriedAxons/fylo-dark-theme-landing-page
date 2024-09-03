@@ -418,7 +418,7 @@ footer {
 
   .navbar {
     margin-top: 25px;
-    padding: 0 22px;
+    padding: 0 18px 0 22px;
   }
 
   .navButtons {
@@ -462,13 +462,21 @@ footer {
     padding: 16px 85px;
   }
 
+  .icons-section::before,
+  .icons-section,
+  .productive-section,
+  .testimonials-section,
+  footer {
+    width: 100%;
+  }
+
   .icons-section::before {
     background-color: hsl(218, 28%, 13%);
     content: "";
     position: absolute;
     height: 100%;
     width: 100%;
-    top: -531px;;
+    top: -531px;
     z-index: -1;
   }
 
@@ -633,7 +641,7 @@ footer {
 
   .logo-section {
     font-weight: 300;
-    max-width: 90%;
+    max-width: 86%;
     line-height: 1.4;
   }
 
@@ -641,9 +649,15 @@ footer {
     margin: 6px 27px 0 0;
   }
 
-  .contact-info-section { 
-    position: absolute; 
-    bottom: 510px;
+  .contact-info-section {
+    position: absolute;
+    bottom: 560px;
+  }
+  
+  .email-address-container {
+    position: absolute;
+    top: 40px;
+    left: 0;
   }
 
   .contact-info-section p {
@@ -660,7 +674,7 @@ footer {
     margin-top: 20px;
   }
 
-  .social-links-section { 
+  .social-links-section {
     margin: 60px auto 0;
   }
 }
