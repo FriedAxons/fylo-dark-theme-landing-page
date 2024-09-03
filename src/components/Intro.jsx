@@ -7,7 +7,7 @@ const Intro = () => {
   return (
     <div className="container">
       <img
-        src="/images/illustration-intro.png"
+        src="/fylo-dark-theme-landing-page/images/illustration-intro.png"
         alt="Illustration"
         className="firstIntroIllustration"
       />
@@ -22,12 +22,12 @@ const Intro = () => {
       <Button text="Get Started" />
 
       <img
-        src="/images/bg-curvy-desktop.svg"
+        src="/fylo-dark-theme-landing-page/images/bg-curvy-desktop.svg"
         alt="Curvy background image"
         className="background-image desktop-only"
       />
       <img
-        src="/images/bg-curvy-mobile.svg"
+        src="/fylo-dark-theme-landing-page/images/bg-curvy-mobile.svg"
         alt="Curvy background image"
         className="background-image mobile-only"
       />
@@ -35,7 +35,7 @@ const Intro = () => {
       <div className="icons-section">
         <div className="icon-box icon-box-1">
           <img
-            src="/images/icon-access-anywhere.svg"
+            src="/fylo-dark-theme-landing-page/images/icon-access-anywhere.svg"
             alt="Access anywhere icon"
           />
           <h2>Access your files, anywhere</h2>
@@ -45,7 +45,7 @@ const Intro = () => {
           </p>
         </div>
         <div className="icon-box icon-box-2">
-          <img src="/images/icon-security.svg" alt="Security icon" />
+          <img src="/fylo-dark-theme-landing-page/images/icon-security.svg" alt="Security icon" />
           <h2>Security you can trust</h2>
           <p>
             2-factor authentication and user-controlled encryption are just a
@@ -54,7 +54,7 @@ const Intro = () => {
         </div>
         <div className="icon-box icon-box-3">
           <img
-            src="/images/icon-collaboration.svg"
+            src="/fylo-dark-theme-landing-page/images/icon-collaboration.svg"
             alt="Collaboration icon"
           />
           <h2>Real-time collaboration</h2>
@@ -64,7 +64,7 @@ const Intro = () => {
           </p>
         </div>
         <div className="icon-box icon-box-4">
-          <img src="/images/icon-any-file.svg" alt="Any file icon" />
+          <img src="/fylo-dark-theme-landing-page/images/icon-any-file.svg" alt="Any file icon" />
           <h2>Store any type of file</h2>
           <p>
             Whether you&apos;re sharing holidays photos or work documents, Fylo
@@ -75,7 +75,7 @@ const Intro = () => {
       </div>
       <div className="productive-section">
         <img
-          src="/images/illustration-stay-productive.png"
+          src="/fylo-dark-theme-landing-page/images/illustration-stay-productive.png"
           alt="Stay productive image"
         />
         <div className="productive-section-text">
@@ -92,12 +92,12 @@ const Intro = () => {
             <span className="productive-link-text">
               See how Fylo works
               <img
-                src="/images/icon-arrow.svg"
+                src="/fylo-dark-theme-landing-page/images/icon-arrow.svg"
                 alt="Arrow icon"
                 className="productive-link-text-icon normal-icon"
               />
               <img
-                src="/images/icon-arrow-white.svg"
+                src="/fylo-dark-theme-landing-page/images/icon-arrow-white.svg"
                 alt="White arrow icon"
                 className="productive-link-text-icon white-icon"
               />
