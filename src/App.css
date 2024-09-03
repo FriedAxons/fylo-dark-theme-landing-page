@@ -462,14 +462,15 @@ footer {
   .button {
     padding: 16px 85px;
   }
-
+  
+/* 
   .icons-section::before,
   .icons-section,
   .productive-section,
   .testimonials-section,
   footer {
     max-width: 100vw;
-  }
+  } */
 
   .icons-section::before {
     background-color: hsl(218, 28%, 13%);
