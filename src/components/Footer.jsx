@@ -2,11 +2,11 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="logo-section">
-        <img src="../../images/logo.svg" alt="Fylo logo" />
+        <img src="../../public/images/logo.svg" alt="Fylo logo" />
         <p className="logo-section-text">
           <div className="icon-container">
             <img
-              src="../../images/icon-location.svg"
+              src="../../public/images/icon-location.svg"
               alt="Location icon"
               className="location-icon"
             />
